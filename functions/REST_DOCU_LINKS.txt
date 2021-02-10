@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=F7NVpxxmmgM - PART1
+https://www.youtube.com/watch?v=mLLUqMpf5H0 - PART2
+
+1. mkdir <DIR_NAME>
+2. cd <DIR_NAME>
+3. npm init
